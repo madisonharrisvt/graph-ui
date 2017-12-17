@@ -1,0 +1,19 @@
+{
+  "name": "graph-ui",
+  "version": "1.0.0",
+  "description": "testing a graph",
+  "main": "graph-view.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madisonharrisvt/graph-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madisonharrisvt/graph-ui/issues"
+  },
+  "homepage": "https://github.com/madisonharrisvt/graph-ui#readme"
+}
